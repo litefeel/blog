@@ -1,6 +1,6 @@
 ---
 post_title: 这辈子我该做什么：如何寻找我的天赋
-post_date: 2017-10-17
+post_date: 2017-10-17 21:10:19
 post_name: finding-your-element
 tags: [半撇私塾,open bpteach,在线教育]
 published: true
